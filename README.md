@@ -2,7 +2,7 @@
 
 Fake-looking real images dataset
 
-https://arxiv.org/pdf/2311.10931.pdf
+[Arxiv](https://arxiv.org/pdf/2311.10931.pdf)
 
 ```
 @article{borji2023florida,
